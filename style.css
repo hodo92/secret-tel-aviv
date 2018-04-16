@@ -6,6 +6,7 @@
 body {
     margin: 0;
     background-color: #ddd;
+    font-size: 100%;
   }
 
   nav li {
@@ -144,6 +145,9 @@ body {
     }
     .column-30 {
       width: 100%;
+    }
+    nav li a {
+      font-size: 1vw ;   
     }
   }
   .new {
